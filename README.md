@@ -10,7 +10,7 @@ Two Python dependencies for running the experiment are included as submodules so
 git clone --recursive https://github.com/matt-graham/continuously-tempered-hmc.git
 ```
 
-The code has only been tested with Python 2.7. The <environment.yml> file specifies the requirements for a [Conda](https://conda.io/docs/) environment that should be able to run all the experiments. After you have cloned the repository, from within the repository directory run
+The code has only been tested with Python 2.7. The [environment.yml](environment.yml) file specifies the requirements for a [Conda](https://conda.io/docs/) environment that should be able to run all the experiments. After you have cloned the repository, from within the repository directory run
 
 ```
 conda env create -f environment.yml
