@@ -1,0 +1,6 @@
+[submodule "boltzmann-machine-tools"]
+	path = boltzmann-machine-tools
+	url = https://github.com/matt-graham/boltzmann-machine-tools
+[submodule "thermodynamic-monte-carlo"]
+	path = thermodynamic-monte-carlo
+	url = https://github.com/matt-graham/thermodynamic-monte-carlo
