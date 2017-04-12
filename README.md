@@ -1,6 +1,6 @@
 # Continuously tempered Hamiltonian Monte Carlo
 
-Python code accompanying the paper [Continuously tempered Hamiltonian Monte Carlo](http://arxiv.org).
+Python code accompanying the paper [Continuously tempered Hamiltonian Monte Carlo](http://arxiv.org/abs/1704.03338).
 
 ## Installation
 
